@@ -6,7 +6,7 @@
 <p align="justify">"Experienced Frontend Developer with a passion for crafting custom digital solutions from scratch. My insatiable appetite for coding drives me to constantly refine my skills, with a current focus on mastering React.js. With over <b>2+ years</b> of programming experience, I bring a wealth of technical expertise to every project. I excel at seamlessly blending design aesthetics with <b>cutting-edge</b> technology, resulting in intricate applications and elegant websites. If you're seeking a <b>proficient</b> developer who takes pride in delivering <b>high-quality</b> results..."</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&pause=6000&color=F7AB02&background=000000&center=true&vCenter=true&repeat=false&width=700&lines=...your+search+ends+here.+🌟" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&pause=6000&color=F7AB02&background=0D1117&center=true&vCenter=true&repeat=false&width=700&lines=...your+search+ends+here.+🌟" alt="Typing SVG">
 </p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
