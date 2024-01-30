@@ -1,6 +1,6 @@
 
 <h1 align="left">🙌🏻 Hey there, it's Agustin.</h1>
-<p align="justify">"Experienced Frontend Developer with a passion for crafting custom digital solutions from scratch. My insatiable appetite for coding drives me to constantly refine my skills, with a current focus on mastering React.js. With over <b>2+ years</b> of programming experience, I bring a wealth of technical expertise to every project. I excel at seamlessly blending design aesthetics with <b>cutting-edge</b> technology, resulting in intricate applications and elegant websites."</p>
+<p align="justify">Experienced Frontend Developer with a passion for crafting custom digital solutions from scratch. My insatiable appetite for coding drives me to constantly refine my skills, with a current focus on mastering React.js. With over <b>3+ years</b> of programming experience, I bring a wealth of technical expertise to every project. I excel at seamlessly blending design aesthetics with <b>cutting-edge</b> technology, resulting in intricate applications and elegant websites.</p>
 
 ___
 
